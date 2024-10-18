@@ -27,6 +27,10 @@ h3 {
     color: #252525;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -186,6 +190,7 @@ main {
     /* override the heading color set in general styles */
     color: #fafafa;
 }
+
 /* Footer */
 #social-networks {
     text-align: center;
